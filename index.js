@@ -40,5 +40,7 @@ function dec(n) {
 dec(7)
 
 
-
+function makeInt() {
+  
+}
 
