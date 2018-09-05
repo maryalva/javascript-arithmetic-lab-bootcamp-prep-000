@@ -47,3 +47,8 @@ function makeInt(n) {
 makeInt('2');
 
 
+function makeInt(n) {
+  return (parseInt(n, 10));
+}
+
+makeInt('This');
