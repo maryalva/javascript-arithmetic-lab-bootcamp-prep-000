@@ -26,7 +26,11 @@ function divide(x, y) {
 divide(14,2)
 
 
+function inc(n){
+  return n + 1
+}
 
+inc(5)
 
 
 
