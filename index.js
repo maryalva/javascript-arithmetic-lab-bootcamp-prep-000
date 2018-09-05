@@ -52,3 +52,31 @@ function makeInt(n) {
 }
 
 makeInt('This');
+
+
+function preserveDecimal() {
+  return
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
