@@ -46,37 +46,14 @@ function makeInt(n) {
 
 makeInt('2');
 
-
-function makeInt(n) {
-  return (parseInt(n, 10));
-}
-
 makeInt('This');
 
 
-function preserveDecimal() {
-  return
+function preserveDecimal(n) {
+  return (parseFloat(n))
 }
 
+preserveDecimal('2.22')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+preserveDecimal('That')
 
