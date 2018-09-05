@@ -40,7 +40,10 @@ function dec(n) {
 dec(7)
 
 
-function makeInt() {
-  
+function makeInt(n) {
+  return (parseInt(n, 10));
 }
+
+makeInt('2');
+
 
