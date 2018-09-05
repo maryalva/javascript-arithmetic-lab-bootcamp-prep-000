@@ -26,12 +26,18 @@ function divide(x, y) {
 divide(14,2)
 
 
-function inc(n){
-  return n + 1
+function inc(n) {
+  return n + 1;
 }
 
 inc(5)
 
+
+function dec(n) {
+  return n - 1;
+}
+
+dec(7)
 
 
 
